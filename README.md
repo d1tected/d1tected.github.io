@@ -1,2 +1,4 @@
-# d1tected.github.io
-Course project "Layout basics"
+
+# Репозиторий d1tected.github.io
+
+1. Course project "Layout basics"
